@@ -11,7 +11,7 @@ public class WechatConfig {
      * 你的微信的APPID
      * appId
      */
-    public static final String VxAppId = "your VxAppId";
+    public static final String VxAppId = "wxb02b1d5a3d886cce";
 
     /**
      * 你的微信的密钥
