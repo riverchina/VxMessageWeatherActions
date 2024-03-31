@@ -17,7 +17,7 @@ public class WechatConfig {
      * 你的微信的密钥
      * appSecret
      */
-    public static final String VxAppSecret = "your VxAppSecret";
+    public static final String VxAppSecret = "2ec729a2cbdd26d9e00fd704b9d5cb9c";
 
     public static final List<User> userList = new ArrayList<>();
 
@@ -43,7 +43,7 @@ public class WechatConfig {
                 "何先生", //咋称呼这个人
                 "江苏省南京市浦口", //这个人的详细地址
                 "南京", //这个人在的城市
-                new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
+                new BirthDay(1999,2,15,true,false,"he先生生日快乐！！"),
                 new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
                 new BirthDay(2020,7,8,true,true),
                 new BirthDay(2020,7,8,true,false,"周年快乐！！！")
