@@ -100,12 +100,12 @@ public class KeyConfig {
     /**
      * 随机API消息
      */
-    public static final KeyDTO KEY_RANDOM_INFO = new KeyDTO("randomInfo","#FFFFFF",true);
+    public static final KeyDTO KEY_RANDOM_INFO = new KeyDTO("randomInfo","#FFFFFF",false);
 
     /**
      * 情话
      */
-    public static final KeyDTO KEY_QING_HUA = new KeyDTO("qingHua","#FFFFFF",true);
+    public static final KeyDTO KEY_QING_HUA = new KeyDTO("qingHua","#FFFFFF",false);
 
     /**
      * 随机段子
@@ -120,7 +120,7 @@ public class KeyConfig {
     /**
      * 随机短句
      */
-    public static final KeyDTO KEY_SENTENCE= new KeyDTO("sentence","#FFFFFF",true);
+    public static final KeyDTO KEY_SENTENCE= new KeyDTO("sentence","#FFFFFF",false);
 
     /**
      * 谜语
@@ -141,7 +141,7 @@ public class KeyConfig {
     /**
      * 新冠
      */
-    public static final KeyDTO KEY_XIN_GUAN= new KeyDTO("xinGuan","#FFFFFF",true);
+    public static final KeyDTO KEY_XIN_GUAN= new KeyDTO("xinGuan","#FFFFFF",false);
 
 
 
