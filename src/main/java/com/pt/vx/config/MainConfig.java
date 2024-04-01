@@ -23,7 +23,7 @@ public class MainConfig {
      * true：开启
      * false：关闭
      */
-    public static boolean keyMessageSplit = true;
+    public static boolean keyMessageSplit = false;
 
     /**
      * 消息达到分裂的条件
