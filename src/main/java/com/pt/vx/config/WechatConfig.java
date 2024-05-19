@@ -53,7 +53,7 @@ public class WechatConfig {
 
         userList.add(getUser(
                 "obQ1c6_zlYpNqZkHv31Gqzp0oBiY", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "vex2obSHjL2cwA6wUEGlsHWanCGvKAkRLN_-TTaNEfY", //要给这个人发送的模板ID
+                "byim9BKmepPh8QkMgCtQSac9j-9jur5eW5pD83meRgY", //要给这个人发送的模板ID
                 "何先生啊", //咋称呼这个人
                 "江苏省南京市江宁区", //这个人的详细地址
                 "南京", //这个人在的城市
