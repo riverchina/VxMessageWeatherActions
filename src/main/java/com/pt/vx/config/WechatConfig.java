@@ -39,17 +39,17 @@ public class WechatConfig {
     static {
         
         
-        //userList.add(getUser(
-        //        "obQ1c6za-FqlLtM0h7I1a7ANZDyk", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-        //        "0dv86fJm6vxTJxBAYwKvUIqVMASibYkzImz2qxnVYAM", //要给这个人发送的模板ID
-        //        "易夫人", //咋称呼这个人
-        //        "安徽省合肥市包河区", //这个人的详细地址
-         //       "合肥", //这个人在的城市
-        //        new BirthDay(1999,2,15,true,false,"he先生生日快乐！！"),
-        //        new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
-        //        new BirthDay(2020,7,8,true,true),
-        //        new BirthDay(2020,7,8,true,false,"周年快乐！！！")
-       // ));
+        userList.add(getUser(
+                "obQ1c6za-FqlLtM0h7I1a7ANZDyk", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "dX8ER02sVGvOSQFR0FKH1Kdd5TPLfJ-93ittT9rjsv8", //要给这个人发送的模板ID
+                "易夫人", //咋称呼这个人
+                "安徽省合肥市包河区", //这个人的详细地址
+              "合肥", //这个人在的城市
+                new BirthDay(1999,2,15,true,false,"he先生生日快乐！！"),
+               new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
+                new BirthDay(2020,7,8,true,true),
+                new BirthDay(2020,7,8,true,false,"周年快乐！！！")
+        ));
 
         userList.add(getUser(
                 "obQ1c6_zlYpNqZkHv31Gqzp0oBiY", //扫码关注你的测试号以后，测试平台会出现TA的微信号
